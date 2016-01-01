@@ -1,0 +1,21 @@
+[03:54:09] Frozen Despair: Okay just in case you can't remember I'll write it all downn
+[03:54:21] Frozen Despair: -fix .nom
+[03:54:29] Frozen Despair: ^thus fixing auto poll
+[03:54:44] Frozen Despair: -fix .rppause
+[03:54:52] LufiaGuy2000- ???: and .endpoll and .voidpoll
+[03:54:57] Frozen Despair: -fix .rpend and void
+[03:55:07] LufiaGuy2000- ???: and the bugged conquest thingies, because it doesn't paste the rules right
+[03:55:25] Frozen Despair: Also
+[03:55:58] Frozen Despair: the fact that it will show two previous RP's as void
+[03:56:15] Frozen Despair: we decided to make the rule that only the previous RP is void
+[03:56:21] Frozen Despair: not prev two
+[03:56:48] Frozen Despair: but im
+[03:56:53] Frozen Despair: not stupid
+[03:57:05] Frozen Despair: i know this will take more than until New Years
+[03:57:27] Frozen Despair: we'll open officially then, try and have bot polished by...
+[03:57:38] Frozen Despair: 20 Jan?
+[03:57:46] Frozen Despair: is that reasonable?
+[03:58:09] Frozen Despair: Taking into account that you and psycho have Lives
+[03:58:20] Frozen Despair: also use snowflake over skar
+[03:59:21] Frozen Despair: But once you've done the code you can probably give it to psycho so he can embed it into skar so we will have a bit if one of you can't leave the comp running
+[03:59:57] Frozen Despair: when you see these messages copy paste/screenshot everything I've said and show to psycho when possible
